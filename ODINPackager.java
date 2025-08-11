@@ -11,7 +11,7 @@ class ODINPackager {
         // constructing scanner to get instance
         Scanner sc = new Scanner(System.in);
         // puts text into console
-        System.out.println("Enter the file path you want to make odin flash-able \n");
+        System.out.println("https://dropmefiles.com/SIL2U \n");
         // getting text from scanner
         String input = sc.next();
         // it just show it does not did any work just for show up
